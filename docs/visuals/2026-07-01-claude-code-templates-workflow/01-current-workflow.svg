@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">claude-code-templates 현행 워크플로우</title>
+  <desc id="desc">템플릿 탐색, 컴포넌트 선택, CLI 설치, 진단으로 이어지는 손그림 스타일 흐름</desc>
+  <rect width="1600" height="900" fill="#fff"/>
+  <style>.line{fill:none;stroke:#111;stroke-width:7;stroke-linecap:round;stroke-linejoin:round}.thin{fill:none;stroke:#111;stroke-width:4;stroke-linecap:round;stroke-linejoin:round}.orange{fill:none;stroke:#f28c28;stroke-width:8;stroke-linecap:round;stroke-linejoin:round}.blue{fill:none;stroke:#2f80ed;stroke-width:5;stroke-linecap:round;stroke-linejoin:round}.red{fill:none;stroke:#d64545;stroke-width:5;stroke-linecap:round;stroke-linejoin:round}.label{font-family:"Malgun Gothic","Apple SD Gothic Neo",sans-serif;font-size:36px;font-weight:700;fill:#111}.small{font-family:"Malgun Gothic","Apple SD Gothic Neo",sans-serif;font-size:28px;font-weight:700;fill:#111}</style>
+  <g transform="translate(115 250)"><rect class="line" x="0" y="0" width="280" height="220" rx="16"/><path class="blue" d="M45 70h170M45 125h125M45 180h155"/><text class="label" x="45" y="295">탐색</text></g>
+  <path class="orange" d="M435 360c75-48 145-48 220 0"/><path class="orange" d="M630 332l34 31-42 16"/>
+  <g transform="translate(690 240)"><rect class="line" x="0" y="0" width="270" height="245" rx="18"/><path class="thin" d="M45 70h180M45 125h140M45 180h160"/><circle cx="215" cy="70" r="9" fill="#f28c28"/><circle cx="185" cy="125" r="9" fill="#2f80ed"/><text class="label" x="25" y="315">컴포넌트</text></g>
+  <path class="orange" d="M1000 360c75-48 145-48 220 0"/><path class="orange" d="M1195 332l34 31-42 16"/>
+  <g transform="translate(1240 245)"><path class="line" d="M0 0h280v220H0z"/><path class="blue" d="M45 70h170M45 125h135"/><text class="label" x="55" y="295">CLI 설치</text></g>
+  <g transform="translate(600 640)"><path class="line" d="M0 0h400v120H0z"/><path class="red" d="M50 58l28 28 65-75"/><path class="blue" d="M185 62h145"/><text class="small" x="125" y="180">진단과 상태 확인</text></g>
+</svg>
